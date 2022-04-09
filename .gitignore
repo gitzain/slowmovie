@@ -1,0 +1,8 @@
+# ignore my videos
+videos/*
+
+# exception to the rule
+!videos/add-your-videos-here
+
+# ignore my logs
+logs/
